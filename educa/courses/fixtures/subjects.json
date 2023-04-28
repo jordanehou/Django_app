@@ -1,0 +1,34 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Math",
+    "slug": "math"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Computer",
+    "slug": "computer"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "title": "Biologie",
+    "slug": "biologie"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 8,
+  "fields": {
+    "title": "Information",
+    "slug": "information"
+  }
+}
+]
